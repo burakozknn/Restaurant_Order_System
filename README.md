@@ -1,3 +1,3 @@
 ## java-order application
 
-- designed and managed to this project with Java in Eclipse.This is a system specially designed to improve the waiter/waitress work efficiency by easy ordering. 
+- Designed and manaaged with Java in Eclipse. This is a system specifically created to improve efficiency and simplify the work of the waiter/waitress. 
